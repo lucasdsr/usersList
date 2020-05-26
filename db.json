@@ -7,11 +7,11 @@
     "data": [
         {
             "id": 1,
-            "name": "Any User",
+            "name": "Lucas",
             "genre": "Male",
             "birth": "13/04/1998",
             "cpf": "73649273621",
-            "telephone": "554498473821",
+            "telephone": "554498122619",
             "e-mail": "email@email.com.br",
             "state": "São Paulo",
             "city": "São Paulo",
@@ -52,10 +52,10 @@
         },
         {
             "id": 1,
-            "name": "Any User",
-            "genre": "Male",
+            "name": "Maria",
+            "genre": "Female",
             "birth": "13/04/1998",
-            "cpf": "73649273621",
+            "cpf": "00000000000",
             "telephone": "554498473821",
             "e-mail": "email@email.com.br",
             "state": "São Paulo",
