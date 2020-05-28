@@ -15,10 +15,7 @@
             "e-mail": "email@email.com.br",
             "state": "São Paulo",
             "city": "São Paulo",
-            "sign-up-date": "01/04/2020",
-            "first-purchase": "01/04/2020",
-            "last-purchase": "10/04/2020",
-            "amount-of-requests": 10
+            "sign-up-date": "01/04/2020"
         },
         {
             "id": 1,
@@ -30,10 +27,7 @@
             "e-mail": "email@email.com.br",
             "state": "São Paulo",
             "city": "São Paulo",
-            "sign-up-date": "01/04/2020",
-            "first-purchase": "01/04/2020",
-            "last-purchase": "10/04/2020",
-            "amount-of-requests": 10
+            "sign-up-date": "01/04/2020"
         },
         {
             "id": 1,
@@ -45,10 +39,7 @@
             "e-mail": "email@email.com.br",
             "state": "São Paulo",
             "city": "São Paulo",
-            "sign-up-date": "01/04/2020",
-            "first-purchase": "01/04/2020",
-            "last-purchase": "10/04/2020",
-            "amount-of-requests": 10
+            "sign-up-date": "01/04/2020"
         },
         {
             "id": 1,
@@ -60,10 +51,7 @@
             "e-mail": "email@email.com.br",
             "state": "São Paulo",
             "city": "São Paulo",
-            "sign-up-date": "01/04/2020",
-            "first-purchase": "01/04/2020",
-            "last-purchase": "10/04/2020",
-            "amount-of-requests": 10
+            "sign-up-date": "01/04/2020"
         },
         {
             "id": 1,
@@ -75,10 +63,7 @@
             "e-mail": "email@email.com.br",
             "state": "São Paulo",
             "city": "São Paulo",
-            "sign-up-date": "01/04/2020",
-            "first-purchase": "01/04/2020",
-            "last-purchase": "10/04/2020",
-            "amount-of-requests": 10
+            "sign-up-date": "01/04/2020"
         }
     ]
 }
